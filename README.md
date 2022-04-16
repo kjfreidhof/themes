@@ -2,7 +2,7 @@
 
 This script is specfically for the gnome desktop environment and only the gnome desktop environment 
 
-#prequisites
+# prequisites
 
 make sure to create a .icons directory and a .themes directory 
 
